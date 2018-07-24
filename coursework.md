@@ -31,7 +31,7 @@ Listed below is a complete listing of all the courses that I've completed for co
 ### Fall Semester 2017 (15 Credits)
 
 - Modern Topics in Physics
-- Rashomon to Pokemon: Storytelling in Contemporary Narrative Play (Honors)
+- Rashomon to Pokemon: Narrative Play in Contemporary Art and Culture (Honors)
 - Computer Science I (Honors)
 - Innovation Processes (Honors)
 - Calculus III

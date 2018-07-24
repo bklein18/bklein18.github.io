@@ -13,4 +13,4 @@ My main area of interest in computer science is machine learning and artificial 
 [raikes]: https://raikes.unl.edu
 [nimbus]: https://nimbus.unl.edu
 [email]: mailto:brady@bradyklein.com
-[resume]: resume
+[resume]: /docs/resume2018.pdf
