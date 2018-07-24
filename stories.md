@@ -13,5 +13,10 @@ A mysterious man called The Slayer hears of a treasure on a mountain, but will h
 
 Inspired by the novel *Invisible Cities* by Italo Calvino, this story examines what our world really is.
 
+#### [A Man of Boundaries][man]
+
+I wrote this short story as a sort of "cutscene" for some of the players for whom I Dungeon Master. Rojax is a character who once was their friend, but had since betrayed them.
+
 [slayer]: /docs/the_slayers_request.pdf
 [invisble]: /docs/invisible_worlds.pdf
+[man]: /docs/a_man_of_boundaries.pdf
