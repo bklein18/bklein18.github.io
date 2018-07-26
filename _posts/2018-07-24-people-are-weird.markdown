@@ -2,7 +2,10 @@
 layout: post
 title: "I'm Kind of WEIRD"
 date: 2018-07-24 00:00 -600
-categories: academics random
+categories: academics
+tags:
+- academics
+- random
 ---
 
 So to fulfill a requirement outside my major, I decided to take Introduction to Anthropology this summer. It's an online course, so the whole idea of self studying in and of itself is a little weird.

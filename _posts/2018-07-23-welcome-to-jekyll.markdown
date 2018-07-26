@@ -2,7 +2,10 @@
 layout: post
 title:  "What is your name?"
 date:   2018-07-23 15:21:52 -0500
-categories: introduction random
+categories: introduction
+tags:
+- random
+- introduction
 ---
 Brady Klein. *What is your quest?!* To make a difference through applying computer science, business, and hard science perspectives to modern problems. 
 *What is your favorite color?!* Despite being a UNL student, I have to go with green. I'm a Michigan State Spartan through and through.
