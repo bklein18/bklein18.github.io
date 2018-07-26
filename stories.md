@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Stories"
-permalink: /stories
+title: "My Writing"
+permalink: /writing
 ---
-On this page, I'll be posting stories that I've written, for a variety of things. I'll try to update it as soon as I finish each story, but they'll likely be updated only sporadically.
+On this page, I'll be posting things that I've written, for a variety of reasons. I'll try to update it as soon as I finish each piece, but they'll likely be updated only sporadically.
 
 #### [The Slayer's Request][slayer]
 
@@ -17,6 +17,11 @@ Inspired by the novel *Invisible Cities* by Italo Calvino, this story examines w
 
 I wrote this short story as a sort of "cutscene" for some of the players for whom I Dungeon Master. Rojax is a character who once was their friend, but had since betrayed them.
 
+#### [Industry Analysis][ia]
+
+I, along with 3 other Raikes students wrote this as the culmination of a semester long project for our economics class. In addition, we presented the findings to our class, professors, and a businessperson from Lincoln. Our assignment was to conduct in-depth research on an industry to present to people considering investing in it, and we chose to research electric vehicles.
+
 [slayer]: /docs/the_slayers_request.pdf
 [invisble]: /docs/invisible_worlds.pdf
 [man]: /docs/a_man_of_boundaries.pdf
+[ia]: /docs/ia-report.pdf
