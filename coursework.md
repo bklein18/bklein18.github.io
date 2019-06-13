@@ -6,11 +6,25 @@ permalink: /coursework
 
 Listed below is a complete listing of all the courses that I've completed for college credit (including AP courses)
 
+### Fall Semester 2019 (14 Credits) (Projected)
+- Programming Languages Concepts
+- General Physics II
+- Leadership II (Honors)
+- Marketing (Honors)
+- Design Studio I (Honors)
+
+### Spring Semester 2019 (14 Credits)
+
+- Data and Models II (Machine Learning) (Honors)
+- Software Engineering IV (Honors)
+- Automata, Computation, and Languages
+- Business Writing (Honors)
+
 ### Fall Semester 2018 (14 Credits)
 
 - Unix Programming Environment
-- Software Engineering II
-- Data and Models I (Honors)
+- Software Engineering III
+- Data and Models I (Probability and Statistics) (Honors)
 - Finance (Honors)
 - Computer Systems Engineering
 
