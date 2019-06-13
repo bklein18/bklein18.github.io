@@ -1,0 +1,30 @@
+---
+layout: post
+title: "My Life Got Busy, Sue Me"
+date: 2019-06-10 00:00 -0700
+categories: "life"
+tags:
+- "life"
+- "update"
+---
+Well, it's been a while since I last posted here. My sophomore year was quite the whirlwind, I barely had time to think for most of it. So, I guess I'll start with a few updates.
+
+I'm working in San Francisco now. Yeah, I was surprised too. 
+I was certainly a little intimidated at first, especially since most of the interns at Zillow are seniors or graduated from college, or even master's students.
+But, as I'm now in my fourth week of the internship and I haven't crashed the website I'm working on ([Trulia][trulia]) I have to imagine I'm doing something right.
+My manager actually told me that I was getting all the work he assigned me done way more quickly than I expected, so that really helped me to feel like a competent developer.
+
+I'm still playing D&D. That's been a constant in my life. It's pretty much the one thing I can do that always relaxes me and helps me feel energized for the week ahead.
+Over the summer I managed to make a few friends at work and online through D&D. I honestly should have realized that would happen, because it's how I made friends for most of high school and college before this, and you know what they say about history and repeating itself.
+Especially now during the summer when my working hours aren't "whenever the professor assigns the homework" I've found myself spending more and more time working on my campaign. I just finished running *Waterdeep: Dragon Heist* before school got out in early May, so now I have the task of figuring out wht the heck I want to run for my group in the fall when we're all back together. As a student of science, I figured the best way to do that would be with copious amounts of research.
+
+So I bombarded my players with three rounds of google forms surveys to try and get a better idea of what they wanted out of a game in general, and also out of my game and whatever system we would use to play that game.
+The results really didn't surprise me that much but I felt better for at least validating my ideas and confirming my hypothesis.
+Taking some inspiration from [Matt Colville][mcdm] I decided to start consipring with my players before the game started to really give the first few sessions some punch.
+
+Over the summer, and hopefully during the school year as well, I'll remember to update this site more often. At some point I'll add a few more stories that I wrote for my gaming group to help set the mood for the game.
+
+In the meantime, I'll just keep on doing ... whatever it is that adults do. I'm still working that out.
+
+[trulia]: https://www.trulia.com
+[mcdm]: https://www.youtube.com/user/mattcolville
