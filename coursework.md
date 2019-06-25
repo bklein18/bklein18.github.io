@@ -6,9 +6,9 @@ permalink: /coursework
 
 Listed below is a complete listing of all the courses that I've completed for college credit (including AP courses)
 
-### Fall Semester 2019 (14 Credits) (Projected)
+### Fall Semester 2019 (13 Credits) (Projected)
 - Programming Languages Concepts
-- General Physics II
+- Science Fiction
 - Leadership II (Honors)
 - Marketing (Honors)
 - Design Studio I (Honors)
