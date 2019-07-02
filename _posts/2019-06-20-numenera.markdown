@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A Slight Change"
+description: I've started to play something other than Dungeons and Dragons, shockingly
 date: 2019-06-20 00:00 -0700
 categories: "life"
 tags:
