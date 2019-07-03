@@ -59,7 +59,7 @@ tags:
 
 I started writing this as I do with many things that I write: with a touchstone idea. When I was younger I hated writing, and it was so difficult for me, I'm sure mostly because I hated it so much.
 But now, I realized it was because I was trying to write the way I was actually taught to by my teachers. That's not how it works for me.
-When I try to fit the formulaic writing strategies taught in public schools, I end up sounding passionless and voiceless. I become to objective and removed from the piece to have any sort of personal touch to my writing.
+When I try to fit the formulaic writing strategies taught in public schools, I end up sounding passionless and voiceless. I become too objective and removed from the piece to have any sort of personal touch to my writing.
 
 But what I'm good at is writing about an idea. I think that it works for me because that's the way I actually think.
 I'm not the kind of person who can follow a train of thought down one path, and I think it's partially because of my OCD. My brain gets trapped in loops and obsessions; if it's not trapped in a loop, then it seems to branch incessantly, starting with Kurt Vonnegut and ending up with something seemingly unrelated, or related only tangentially like Dungeons and Dragons (I spend a lot of time thinking about D&D, so I'm not sure this is a good example, but, so it goes).

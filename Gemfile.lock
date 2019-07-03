@@ -73,7 +73,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-seo-tag
   jekyll-sitemap
-  minima (~> 2.0)
+  minima (~> 2.5.0)
   tzinfo-data
 
 BUNDLED WITH
