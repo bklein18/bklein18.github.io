@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Novae Terrae"
+date:   2019-10-24 00:00:00 -0500
+categories: literature
+tags:
+- science
+- fiction
+- literature
+---
+
+I, for essentially no reason other than the fact that I wanted to, am taking a Science Fiction literature class.  It's been quite a relaxing time in general, since I love reading, but recently it has been hard to find the time to read; however, it is much easier to justify reading time for a class, so I've been taking much more time to do so.
+
+This has been the start of some new territory for me: taking fewer classes, and classes that I cared much more about. In high school, I took a frankly ridiculous amount of AP classes, trying to diversify my college credit as possible so that I could not waste my time in college taking introductory elective credits. Which I am now reaping the benefits of, however, looking back on my time in high school, I realize just how intense my education was, and how little I enjoyed some of it. For the most part, I really loved the teachers and the subjects, but the amount of work that went into it seems insurmountable looking back at it.
+
+And this class. The class has been fantastic for kicking my creative drives into full gear. It's made me so interested in being creative in my writing and prolific in my reading. So much so that I've finally decided to take part in [NaNoWriMo][nano], divisive as it is (apparently). I see the benefits of doing NaNoWriMo as multipart.
+
+1. **It will help me cut the waste out of my schedule**. I'm only taking 13 credit hours in school right now, so I have a lot of free time in between classes. I realized when I was preparing for NaNoWriMo that my schedule had so much free time. I mean, I could cut out two hours everyday without waking up early on almost every day except Mondays, when I would wake up about 45 minutes earlier than normal. This realization will stay with me past NaNoWriMo, and I'm going to start trimming the fat from my schedule more often so I can boost my productivity.
+2. **It will give me a creative outlet**. Because my regular D&D groups have been difficult to schedule this year, I've had less time to get to use my usual outlet for ideas and creativity. I think that I've finally figured out how to schedule the groups, but they still are a little hard to schedule given the business of everyone inside. Regardless, spending two hours every day writing will give me a great chance to channel my creativity and learn to force myself to be creative.
+3. **The principle carries forward**. For me, the reason you do NaNoWriMo (and the purpose of the idea) is to take something that you've always wanted to do and just do it. Without fear. Well, maybe a little fear. But I can't tell you how many times I've tried and failed to write a significant amount for an organized story, whether it's a novella, novel, or series of short stories. Or even doing worldbuilding for D&D. But with NaNoWriMo, not only do you have a support system, a definitive goal, and the realization that many people have done it before you, but you have some onus to start. I experienced some of that preparing. Writing the first plot point of my novel in an outline was painful, but the next ones got progressively easier as I understood the shape of the story. Not only will this give me the opportunity to start, but I can give myself some reasons to start working in the future. Maybe December is National Start Working Out Month (but only for me).
+
+Now, today is October 24<sup>th</sup>, so maybe I'll fizzle out. Maybe I'll lose. But maybe I'll win. So why not try?
+
+
+
+[nano]:  https://nanowrimo.org	"link to the nanowrimo website"
