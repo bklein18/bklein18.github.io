@@ -9,4 +9,11 @@ This list is going to be organized by month started, with month finished listed 
 
 | Title | Author | Month Finished | Word Count |
 | ---- | ---- | ---- | ---- |
-| Anarchism and Other Essays | Emma Goldman | | 78,792 |
+| Anarchism and Other Essays | Emma Goldman | December 2019 | 78,792 |
+
+## December 2019
+
+| Title | Author | Month Finished | Word Count |
+| ---- | ---- | ---- | ---- |
+| The Poetic Edda | Jackson Crawford | | 55,680 |
+| The Sword of Destiny | Andrezj Sapkowski | | 111,070 |
