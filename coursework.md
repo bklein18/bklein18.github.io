@@ -6,13 +6,13 @@ permalink: /coursework
 
 Listed below is a complete listing of all the courses that I've completed for college credit (including AP courses)
 
-### Spring Semester 2020 (12 Credits (Projected)
+### Spring Semester 2020 (12 Credits) (Projected)
 - Design Studio II (Honors)
 - Fundamentals of Management Science (Honors)
 - Business Law (Honors)
 - Operating Systems Kernels
 
-### Fall Semester 2019 (13 Credits) (Projected)
+### Fall Semester 2019 (13 Credits)
 - Programming Languages Concepts
 - Science Fiction
 - Leadership II (Honors)
