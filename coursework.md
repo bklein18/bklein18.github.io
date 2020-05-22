@@ -6,7 +6,14 @@ permalink: /coursework
 
 Listed below is a complete listing of all the courses that I've completed for college credit (including AP courses)
 
-### Spring Semester 2020 (12 Credits) (Projected)
+### Fall Semester 2020 (12 Credits)
+*Projected*
+- Design Studio III (Honors)
+- Human Computer Interaction
+- Latin American Politics
+- Vines, Wines, and You
+
+### Spring Semester 2020 (12 Credits)
 - Design Studio II (Honors)
 - Fundamentals of Management Science (Honors)
 - Business Law (Honors)
