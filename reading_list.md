@@ -40,4 +40,10 @@ This list is going to be organized by month started, with month finished listed 
 
 | Title | Author | Month Finished | Word Count |
 | ---- | ---- | ---- | ---- |
-| The New Jim Crow | Michelle Alexander | | 94,681 |
+| The New Jim Crow | Michelle Alexander | June 2020 | 94,681 |
+
+## June 2020
+
+| Title | Author | Month Finished | Word Count |
+| ---- | ---- | ---- | ---- |
+| The Artist in the Machine | Arthur Miller | | 116,202 |
